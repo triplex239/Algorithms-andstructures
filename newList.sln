@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "newList", "newList\newList.csproj", "{6C739B30-7732-4AF7-B902-BACF7CDC3B0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les5algor", "Les5algor\Les5algor.csproj", "{C189771D-BB72-4650-AC4D-5A90BC4CC7E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C739B30-7732-4AF7-B902-BACF7CDC3B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C739B30-7732-4AF7-B902-BACF7CDC3B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C739B30-7732-4AF7-B902-BACF7CDC3B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C739B30-7732-4AF7-B902-BACF7CDC3B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C189771D-BB72-4650-AC4D-5A90BC4CC7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C189771D-BB72-4650-AC4D-5A90BC4CC7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C189771D-BB72-4650-AC4D-5A90BC4CC7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C189771D-BB72-4650-AC4D-5A90BC4CC7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC0E5E77-15FC-42A4-B37C-D60B8F115D7E}
+	EndGlobalSection
+EndGlobal
